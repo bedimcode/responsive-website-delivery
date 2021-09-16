@@ -1,0 +1,105 @@
+<!--=============== HOME ===============-->
+.home__title
+Order Products <br> Faster Easier
+
+.home__description
+Order your favorite foods at any time and we will deliver them right to where you are.
+
+<!--=============== ABOUT ===============-->
+.section__title-center
+Find Out A Little More <br> About Us
+
+.about__description
+We are a company dedicated to the distribution of products by delivery 
+to your home or to the place where you are, with the best quality of delivery.
+
+<!--=============== SECURITY ===============-->
+.section__title-center
+Your Safety Is <br> Important
+
+.security__description
+When your order reaches you, we have the health safety protocols, 
+so that you are protected from any disease. Watch the video of how the delivery is made.
+
+<!--=============== SERVICES ===============-->
+.section__title
+Some Services We <br> Offer
+
+Payment Done
+
+Find Your Product
+
+Product Received
+
+
+.services__description
+Pay with a Visa or PayPal card and without much ado.
+
+We offer sale of products through the Internet.
+
+In our app you can see the delay time of your order.
+
+<!--=============== APP ===============-->
+.section__title-center
+Watch Your Delivery <br> At Any Time
+
+.app__description
+With our app you can view the route of your order, from our local headquarters to the 
+place where you are. Look for the app now!
+
+<!--=============== CONTACT US ===============-->
+.section__title-center
+Contact Us From <br> Here
+
+.contact__description
+You can contact us from here, you can write to us, 
+call us or visit our service center, we will gladly assist you.
+
+.contact__address
+Telephone:
+
+Email:
+
+Location:
+
+.contact__information
+999 - 888 - 777
+
+delivery@email.com
+
+Lima - Peru
+
+<!--=============== FOOTER ===============-->
+.footer__description
+Order Products Faster <br> Easier
+
+.footer__title
+Our Services
+
+Our Company
+
+Community
+
+.footer__link
+
+Pricing 
+Discounts
+Report a bug
+Terms of Service
+
+Blog
+Our mision
+Get in touch
+
+Support
+Questions
+Customer help
+
+.footer__social
+https://www.facebook.com/
+https://twitter.com/
+https://www.instagram.com/
+
+.footer__copy
+&#169; Bedimcode. All right reserved
+
