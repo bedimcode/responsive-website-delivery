@@ -1,0 +1,39 @@
+/*=============== BUTTONS ===============*/
+.button{
+    display: inline-block;
+    background-color: var(--first-color);
+    color: #1A1A1A; // Use color black for yellow
+    padding: .75rem 1.5rem;
+    border-radius: 3rem; 
+    font-weight: var(--font-semi-bold);
+    transition: .3s;
+    
+    &:hover{
+        background-color: var(--first-color-alt);
+    }
+
+    &__header{
+        display: none;
+    }
+
+    &-link{
+        background: none;
+        padding: 0;
+        color: var(--title-color);
+
+        &:hover{
+            background-color: transparent;
+        }
+    }
+
+    &-flex{
+        display: inline-flex;
+        align-items: center;
+        column-gap: .25rem;
+        padding: .75rem 1rem;
+    }
+
+    &__icon{
+        font-size: 1.5rem;
+    }
+}
